@@ -1,4 +1,4 @@
-export const data = [
+[
     {
         "title": "Бот и игра",
         "controls": [
