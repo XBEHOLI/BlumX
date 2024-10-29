@@ -31,6 +31,15 @@
                     "blue": 0,
                     "tolerance": 5
                 }
+            },
+            {
+                "name": "Собаки",
+                "color": {
+                    "red": 255,
+                    "green": 255,
+                    "blue": 255,
+                    "tolerance": 1
+                }
             }
         ]
     },
