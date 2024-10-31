@@ -15,7 +15,6 @@
         "items": [
             {
                 "name": "Тыквы",
-                "tag": true,
                 "color": {
                     "red": 227,
                     "green": 119,
