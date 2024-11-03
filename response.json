@@ -6,9 +6,7 @@
             {
                 "id": 1,
                 "name": "Активация бот-режима",
-                "hasCheckbox": {
-                    "disabled": true
-                }
+                "hasCheckbox": true
             },
             {
                 "id": 2,
@@ -33,9 +31,7 @@
                     "blue": 44,
                     "tolerance": 1
                 },
-                "hasCheckbox": {
-                    "disabled": true
-                }
+                "hasCheckbox": true
             },
             {
                 "id": 2,
@@ -46,9 +42,7 @@
                     "blue": 218,
                     "tolerance": 1
                 },
-                "hasCheckbox": {
-                    "disabled": true
-                }
+                "hasCheckbox": true
             }
         ],
         "caption": "Список элементов, на которые бот будет кликать. Все новые элементы добавляются автоматически для вашего удобства."
