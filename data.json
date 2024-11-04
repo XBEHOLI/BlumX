@@ -33,7 +33,7 @@
                     "red": 208,
                     "green": 216,
                     "blue": 0,
-                    "tolerance": 5
+                    "tolerance": 1
                 }
             }
         ]
