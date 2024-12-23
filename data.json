@@ -19,6 +19,51 @@
         "caption": "Список элементов, на которые бот будет кликать. Все новые элементы добавляются автоматически для вашего удобства.",
         "items": [
             {
+                "name": "Yellow (Santa)",
+                "color": {
+                    "red": 239,
+                    "green": 181,
+                    "blue": 19,
+                    "tolerance": 10
+                }
+            },
+            {
+                "name": "Green (Santa)",
+                "color": {
+                    "red": 92,
+                    "green": 164,
+                    "blue": 16,
+                    "tolerance": 10
+                }
+            },
+            {
+                "name": "Pink (Santa)",
+                "color": {
+                    "red": 255,
+                    "green": 0,
+                    "blue": 185,
+                    "tolerance": 10
+                }
+            },
+            {
+                "name": "White (Santa)",
+                "color": {
+                    "red": 255,
+                    "green": 247,
+                    "blue": 255,
+                    "tolerance": 10
+                }
+            },
+            {
+                "name": "Brown (Santa)",
+                "color": {
+                    "red": 127,
+                    "green": 53,
+                    "blue": 23,
+                    "tolerance": 10
+                }
+            },
+            {
                 "name": "Orange (New)",
                 "color": {
                     "red": 255,
